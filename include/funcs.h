@@ -2,7 +2,7 @@
 #define FUNCS_H
 
 void foo(void);
-void goo(void);
+int goo(void);
 
 
 
